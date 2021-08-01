@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/48860569/119158366-848b9680-ba2c-11eb-85d9-26f734ab20da.png" width="240px" align="right" alt="me">
 
 <p align="left"> 
-  Olá, meu nome é <strong>Matheus</strong>, atualmente estou no 4º ano da faculdade de Informática e trabalho como Desenvolvedor Web :D<br>
+  Opa, meu nome é <strong>Matheus</strong>, atualmente estou no 4º ano da faculdade de Informática e trabalho como Desenvolvedor Web :D<br>
 </p>
 
 <p align="left">
