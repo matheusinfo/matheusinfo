@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Feel confortable to contact me on Linkedin <a href="https://www.linkedin.com/in/mapx/" target="_blank" >~ Matheus</a><br>
+  Feel confortable to contact me on <a href="https://www.linkedin.com/in/mapx/" target="_blank" >Linkedin</a><br>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&theme=gotham" alt="matheusinfo" />
