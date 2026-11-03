@@ -12,4 +12,4 @@ Lately I've been hacking on hardware at home: I put Linux on an Amazon Echo Show
 - [mount-validation](https://github.com/matheusinfo/mount-validation): dependency-free validation library, [published on npm](https://www.npmjs.com/package/mount-validation)
 - [clean-ts-api](https://github.com/matheusinfo/clean-ts-api): Node.js API built with Clean Architecture and TDD
 
-**Contact:** [matheusinfo.github.io/matheusinfo.dev](https://matheusinfo.github.io/matheusinfo.dev/) · [LinkedIn](https://www.linkedin.com/in/mapx/)
+**Contact:** [matheusinfo.github.io/matheusinfo.dev](https://matheusinfo.github.io/matheusinfo.dev/) · [LinkedIn](https://www.linkedin.com/in/matheusinfo/)
