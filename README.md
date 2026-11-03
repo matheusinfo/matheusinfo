@@ -1,15 +1,15 @@
-<img src="https://user-images.githubusercontent.com/48860569/119158366-848b9680-ba2c-11eb-85d9-26f734ab20da.png" width="240px" align="right" alt="me">
+### Hi, I'm Matheus 👋
 
-<p align="left"> 
-  Hi, my name is <strong>Matheus</strong>, i am currently in 5/5 year of college and work as a fullstack developer :D<br>
-</p>
+Full-stack developer from Maringá, Brazil. I work mostly with TypeScript (React, Next.js, Node.js, NestJS), plus Flutter for mobile and Docker for infrastructure.
 
-<p align="left">
-  All my projects are here on GitHub <strong>@MatheusINFO</strong><br>
-</p>
+Lately I've been hacking on hardware at home: I put Linux on an Amazon Echo Show and turned it into a small always-on server.
 
-<p align="left">
-  Feel confortable to contact me on <a href="https://www.linkedin.com/in/mapx/" target="_blank" >Linkedin</a><br>
-</p>
+**Projects**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&theme=gotham" alt="matheusinfo" />
+- [echo-penguin](https://github.com/matheusinfo/echo-penguin): Alpine Linux on an Amazon Echo Show 5, running 24/7 as a tiny server
+- [echo-penguin-manager](https://github.com/matheusinfo/echo-penguin-manager): desktop app (Electron) to manage it
+- [lapwing](https://github.com/matheusinfo/lapwing): plan running routes and track your workouts in the browser
+- [mount-validation](https://github.com/matheusinfo/mount-validation): dependency-free validation library, [published on npm](https://www.npmjs.com/package/mount-validation)
+- [clean-ts-api](https://github.com/matheusinfo/clean-ts-api): Node.js API built with Clean Architecture and TDD
+
+**Contact:** [matheusinfo.github.io/matheusinfo.dev](https://matheusinfo.github.io/matheusinfo.dev/) · [LinkedIn](https://www.linkedin.com/in/mapx/)
